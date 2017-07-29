@@ -1,0 +1,5 @@
+This is Sai Tejaswee Reddy
+Studying Masters in CS
+in UMKC
+This is an assignment on NLTK functions
+I like singing
